@@ -7,3 +7,6 @@
 [submodule "arbitrage-keeper"]
 	path = arbitrage-keeper
 	url = git@github.com:makerdao/arbitrage-keeper.git
+[submodule "pymaker"]
+	path = pymaker
+	url = https://github.com/makerdao/pymaker.git
