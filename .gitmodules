@@ -1,0 +1,6 @@
+[submodule "python3-krakenex"]
+	path = python3-krakenex
+	url = git@github.com:veox/python3-krakenex.git
+[submodule "auction-keeper"]
+	path = auction-keeper
+	url = git@github.com:makerdao/auction-keeper.git
