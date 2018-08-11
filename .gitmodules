@@ -4,3 +4,6 @@
 [submodule "auction-keeper"]
 	path = auction-keeper
 	url = git@github.com:makerdao/auction-keeper.git
+[submodule "arbitrage-keeper"]
+	path = arbitrage-keeper
+	url = git@github.com:makerdao/arbitrage-keeper.git
