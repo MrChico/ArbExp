@@ -26,6 +26,6 @@ dir.
 The following steps are left as an exercise in
 premature optimization:
 - Literal programming style; combine code with documentation in .md files
-- Display the code blocks in nice html style, (The agda html viewer is really cool!)
+- Display the code blocks in nice html style (The agda html viewer is really cool!)
 - Display the documentation blocks in some other slick html files.
 - One line command install of everything in this repo.
